@@ -16,7 +16,7 @@
 - PHP
 - Java (JavaFX, Maven)
 
-#### ⚙️ Learing:
+#### ⚙️ Learning:
 - Laravel
 - Flask
 
