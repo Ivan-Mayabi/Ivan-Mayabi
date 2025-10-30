@@ -21,7 +21,7 @@
 - Flask
 
 <p align="center">
-<a= href="https://www.linkedin.com/in/muigai-mayabi-ba4084304/">
+<a href="https://www.linkedin.com/in/muigai-mayabi-ba4084304/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=25px width=25px alt="Ivan-Mayabi's Linked In">
 </a>
 <p>
